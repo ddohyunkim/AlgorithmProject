@@ -1,0 +1,5 @@
+﻿  main_manu.c
+K:\2학년\알고리즘\Algorithmpj\Algorithmpj\main_manu.c(302,28): warning C4013: 'treeDraw'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+K:\2학년\알고리즘\Algorithmpj\Algorithmpj\main_manu.c(350,29): warning C4013: 'graphDraw'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+K:\2학년\알고리즘\Algorithmpj\Algorithmpj\main_manu.c(391,27): warning C4013: 'etcDraw'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Algorithmpj.vcxproj -> K:\2학년\알고리즘\Algorithmpj\x64\Debug\Algorithmpj.exe
